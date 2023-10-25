@@ -10,7 +10,7 @@ body {
 }
 header {
     clear:both;
-    background: #753232;
+    background: #ffaf7a;
     width: 100%;
     height: 100px;
     padding: 20px 0px;
@@ -32,11 +32,10 @@ header {
 .menu {
     text-align: right;
     width:100%;
-    background:#3d070c;
     margin:0;
     padding:0;
     position: relative;
-    bottom: 30px;
+    bottom: 60px;
 }
 .menu li {
     display: inline-block;
